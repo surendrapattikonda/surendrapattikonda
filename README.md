@@ -13,7 +13,9 @@
 - 🎓 Final-year student at **RGM College of Engineering and Technology**, pursuing **B.Tech in Computer Science and Engineering (Data Science)**.  
 - 💡 Passionate about **Full-Stack Web Development** & **Machine Learning** — building real-world, impactful AI-powered solutions.  
 - 🌱 Currently exploring **React.js**, **Node.js**, and deepening expertise in **ML & System Design**.  
-- 🤝 Looking for **internship opportunities** and eager to collaborate on **open-source projects**.  
+- 🤝 Looking for **internship opportunities** and eager to collaborate on **open-source projects**.
+- 🌐 Check out my portfolio: [Portfolio Website](https://surendras-portfolio.vercel.app/)
+
 - 📫 Reach me at: **pattikondasurendra05@gmail.com**
 
 ---
