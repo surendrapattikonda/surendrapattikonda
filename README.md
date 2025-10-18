@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pattikonda Surendra</h1>
-<h3 align="center">Full-Stack Developer & ML Enthusiast | Final Year B.Tech CSE (Data Science) Student</h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Pattikonda%20Surendra&animation=twinkling" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&lines=Final+Year+CSE+(Data+Science)+Student;Full-Stack+%26+ML+Developer;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -86,10 +86,36 @@ An intelligent assistant that empowers farmers with:
 
 ---
 
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=surendrapattikonda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A11CB&icon_color=2575FC&text_color=ffffff" width="48%" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendrapattikonda&theme=tokyonight&hide_border=true&background=0D1117&ring=6A11CB&fire=2575FC&currStreakLabel=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendrapattikonda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A11CB&text_color=ffffff" width="40%" />
+</p>
+
+<!-- <p align="center">
+  <!-- Contribution Graph 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surendrapattikonda&bg_color=0D1117&color=ffffff&line=6A11CB&point=2575FC&area=true&hide_border=true" width="95%" />
+</p> -->
+
+
+
 ## 📫 Let's Connect
 
 - <p> <a href="https://www.linkedin.com/in/pattikondasurendra/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> </p> 
 - <a href="https://github.com/surendrapattikonda" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> </p>
 
 ---
+<!-- Footer Capsule -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
 
