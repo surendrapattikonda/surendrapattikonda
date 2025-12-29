@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Pattikonda%20Surendra&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Pattikonda%20Surendra&animation=twinkling" />
 </p>
 
 <p align="center">
