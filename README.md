@@ -19,7 +19,6 @@
 - 🌱 Currently exploring **React.js**, **Node.js**, and strengthening **ML & System Design** fundamentals  
 - 🤝 Actively seeking **internship opportunities** and **open-source collaborations**  
 - 📌Portfolio: [Surendra’s Portfolio](https://surendras-portfolio.vercel.app)
-
 - 📫 Email: **pattikondasurendra05@gmail.com**
 
 ---
@@ -83,26 +82,6 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
 
----
-
-## 🚧 Currently Working On
-
-### 🌾 **Agri Assistant – AI-Powered Web Platform for Farmers**
-
-📌  [ **GitHub Repo**](https://github.com/surendrapattikonda/Agri-Assistant) · 
-
->A smart agriculture platform that helps farmers make informed decisions using AI and real-time data.
-
-- 🌿 **Plant Disease Detection** using image-based ML models  
-- 🌦 **Weather-based pesticide recommendations**  
-- 🛒 **Agri-product shopping module**  
-- 🗂 **Farmer profiles & crop history management**
-
-**🛠 Tech Stack:**  
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Python` · `Machine Learning`
-
-**📈 Outcome:**  
-Helps farmers reduce crop loss and optimize pesticide usage through early disease detection.
 
 
 ---
@@ -144,6 +123,28 @@ Replaced manual club workflows with a **centralized digital system**, improving 
 
 **📈 Outcome:**  
 Reduced manual question creation effort by **~80%**.
+
+
+---
+
+## 🚧 Currently Working On
+
+### 🌾 **Agri Assistant – AI-Powered Web Platform for Farmers**
+
+📌  [ **GitHub Repo**](https://github.com/surendrapattikonda/Agri-Assistant) · 
+
+>A smart agriculture platform that helps farmers make informed decisions using AI and real-time data.
+
+- 🌿 **Plant Disease Detection** using image-based ML models  
+- 🌦 **Weather-based pesticide recommendations**  
+- 🛒 **Agri-product shopping module**  
+- 🗂 **Farmer profiles & crop history management**
+
+**🛠 Tech Stack:**  
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Python` · `Machine Learning`
+
+**📈 Outcome:**  
+Helps farmers reduce crop loss and optimize pesticide usage through early disease detection.
 
 
 ---
