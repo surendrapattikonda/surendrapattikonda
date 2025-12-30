@@ -44,12 +44,15 @@
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://docs.oracle.com/javase/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+---
 
 ### 🎨 Frontend Development
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+
+---
 
 ### 🛠 Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
@@ -58,6 +61,7 @@
 [![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)](https://restfulapi.net/)
 
+---
 
 
 ### 🗄️ Databases & ORM
@@ -65,10 +69,13 @@
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge)](https://mongoosejs.com/)
 
+---
 
 ### ☁️ Cloud & Deployment
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)](https://render.com/)
+
+---
 
 ### 🔧 Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
@@ -80,9 +87,9 @@
 
 ## 🚧 Currently Working On
 
-#### 🌾 **Agri Assistant – AI-Powered Web Platform for Farmers**
+### 🌾 **Agri Assistant – AI-Powered Web Platform for Farmers**
 
-📌  [ **GitHub Repo**](https://github.com/surendrapattikonda/Agri-Assistant) ·  [👥 **Live Demo**](#)
+📌  [ **GitHub Repo**](https://github.com/surendrapattikonda/Agri-Assistant) · 
 
 >A smart agriculture platform that helps farmers make informed decisions using AI and real-time data.
 
@@ -102,7 +109,27 @@ Helps farmers reduce crop loss and optimize pesticide usage through early diseas
 
 ## 🚀 Featured Projects
 
-#### 💡 **MCQ Wizard – AI-Powered Question Generator**
+### 🎓 **Departmental Club Management System (Club Hub)**
+
+📌 [**GitHub Repo**](https://github.com/surendrapattikonda/Club-hub) 
+
+> A full-stack web platform to manage departmental student clubs with secure, role-based access and centralized administration.
+
+- 👥 Role-based dashboards for **Students, Club Leads & Faculty**
+- 🏷️ Club discovery, join requests & member management
+- 📅 Activity planning and digital attendance tracking
+- 📊 Centralized oversight & analytics for faculty/HODs
+- 🔐 Secure authentication using JWT
+
+**🛠 Tech Stack:**  
+`React.js` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `JWT`
+
+**📈 Outcome:**  
+Replaced manual club workflows with a **centralized digital system**, improving transparency, engagement tracking, and administrative efficiency.
+
+---
+
+### 💡 **MCQ Wizard – AI-Powered Question Generator**
 
  📌  [  **GitHub Repo**](https://github.com/surendrapattikonda/mcqwizard) ·  [ 👥 **Live Demo**](https://mcqwizard-2-aaje.onrender.com/)
 
