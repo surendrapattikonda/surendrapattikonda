@@ -88,7 +88,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 **Departmental Club Management System (Club Hub)**
+### 🎓  **Club Hub - Departmental Club Management System**
 
 📌 [**GitHub Repo**](https://github.com/surendrapattikonda/Club-hub) 
 
