@@ -66,7 +66,7 @@
 ### 🗄️ Databases & ORM
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)
-[![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge)](https://mongoosejs.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=880000)](https://mongoosejs.com/)
 
 ---
 
