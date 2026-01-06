@@ -90,7 +90,7 @@
 
 ### 🎓  **Club Hub - Departmental Club Management System**
 
-📌 [**GitHub Repo**](https://github.com/surendrapattikonda/Club-hub) 
+📌 [**GitHub Repo**](https://github.com/surendrapattikonda/Club-hub) .   [ 👥 **Live Demo**](https://club-hub-ds.vercel.app/)
 
 > A full-stack web platform to manage departmental student clubs with secure, role-based access and centralized administration.
 
