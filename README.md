@@ -131,7 +131,7 @@ Reduced manual question creation effort by **~80%**.
 
 ### 🌾 **Agri Assistant – AI-Powered Web Platform for Farmers**
 
-📌  [ **GitHub Repo**](https://github.com/surendrapattikonda/Agri-Assistant) · 
+📌  [ **GitHub Repo**](https://github.com/surendrapattikonda/Agro-Assistant) · 
 
 >A smart agriculture platform that helps farmers make informed decisions using AI and real-time data.
 
